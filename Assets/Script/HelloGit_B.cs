@@ -9,7 +9,7 @@ public class HelloGit_B : MonoBehaviour
     {
         Debug.Log("HelloGit_B");
 
-        Debug.Log("HelloGit_B_2");
+        Debug.Log("HelloGit_B_3");
     }
 
     // Update is called once per frame
