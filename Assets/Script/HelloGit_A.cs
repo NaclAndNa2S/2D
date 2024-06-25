@@ -8,6 +8,8 @@ public class HelloGit_A : MonoBehaviour
     void Start()
     {
         Debug.Log("HelloGit_A");
+
+        Debug.Log("HelloGit_A_From_B");
     }
 
     // Update is called once per frame
